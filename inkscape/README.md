@@ -1,6 +1,6 @@
 # `LEARNING INKSCAPE FROM BEGINNER TO PRO`
 
-hello inkscape!
+hello Inkscape!
 
 **`[🖥️ 🍏 🐧]` | `[CROSS PLATFORM]`**  
 > **Download link:** 📦[<https://inkscape.org/>]  
